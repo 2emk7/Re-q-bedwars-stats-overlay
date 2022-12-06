@@ -1,0 +1,1 @@
+go to command prompt and paste this command: npm install prompt-sync puppeteer
